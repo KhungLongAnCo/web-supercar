@@ -1,0 +1,12 @@
+@media only screen and (min-width: 992px){
+	.navbar-header a img{
+		position: absolute;
+		left:  -40px;
+	
+	}
+	#sub-buy{
+	width: 500px;
+	position: absolute;
+	left: -70px;
+}
+}

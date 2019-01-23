@@ -1,0 +1,17 @@
+.ten{
+	color: red;
+}
+.thumbnail img{
+	width: 100%;
+}
+.pagination li{
+	background: black !important;
+	color: red;
+}
+.top_hd{
+	color: blue;
+	font-family: italic;
+}
+.product  .col-xs-12 a span .btn-success{
+	margin-left: 10px;
+}

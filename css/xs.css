@@ -1,0 +1,18 @@
+@media only screen and (min-width: 368px) {
+
+.navbar-header a img{
+	padding: 0 65px;
+}
+#sub-buy{
+	width: 400px;
+	position: absolute;
+	left: 10px;
+	background: gray;
+	
+}
+#sub-buy ul li a{
+	color: white;
+}
+
+
+}

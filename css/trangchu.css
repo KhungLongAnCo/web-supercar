@@ -1,0 +1,98 @@
+/* backtotop */
+.lentop {display:none; bottom: 40%; right: 10px; cursor: pointer;  position: fixed; z-index: 1000;}
+.lentop div {background:crimson; border:2px solid #fff; border-radius:45px; padding:11px 12.5px; box-shadow: 1px 3px 5px 0px rgba(0, 0, 0, 0.3)}
+.lentop img {width:16px; height:16px;}
+/* backtotop */
+.container-nav{
+	background: white;
+	border-bottom: solid 4px gray;
+}
+nav .collapse ul{
+	padding: 10px 50px ;
+}
+nav .collapse ul li{
+	padding-left: 15px ;
+}
+.navbar-header a img{
+	padding-left:40px;
+}
+
+
+#login li{
+	list-style: none;
+}
+nav .collapse ul li:hover > #login{
+	display: block;
+}
+#login {
+	display: none;
+	background: gray;
+}
+#login li a{
+	color:white;
+}
+#login li:hover {
+	background: black;
+}
+#sub-buy{
+	width: 960px;
+	position: absolute;
+	left: -385px;
+}
+#sub-buy li a{
+	font-weight: 600;
+}
+
+/* menu */
+
+#carousel-id .carousel-inner .item img{
+	width: 100%;
+}
+._form{
+	background: black;
+	color: white;
+	height: 410px;
+}
+.form-group{
+	padding-top: 30px;
+}
+.content_left{
+	height: 400px;
+}
+.owl-carousel .item h4 img{
+	width: 100%;
+}
+.sukien{
+	position: absolute;
+	left: 770px;
+	top: 0px;
+	z-index: 100;
+}
+.content2{
+	background: black;
+}
+.carnew{
+	margin-top: 300px;
+}
+.content3{
+	margin-top: 200px;
+}
+.tintuc {
+	background: black;
+}
+.tintuc p{
+	color: white;
+}
+/* footer */
+.footer{
+	background: black ;
+	color: white;
+	width: 100%;
+	
+	text-align: center;
+}
+/* footer */
+#anhcuoi{
+	margin: 30px;
+}
+

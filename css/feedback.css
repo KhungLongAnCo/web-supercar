@@ -1,0 +1,9 @@
+#_submit{
+	background: #00FFFF;
+	padding: 10px;
+	width: 80px;
+	font-weight: 700;
+	border-radius: 10px;
+	text-align: center;
+	cursor: pointer;
+}

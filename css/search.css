@@ -1,0 +1,42 @@
+.search h3{
+	color: red;
+}
+.search  span{
+	font-size: 20px;
+	font-weight: 700;
+	color: gray;
+}
+.search .row span input{
+	width: 100px;
+}
+.search select{
+	padding:10px 20px;
+}
+.search ul li{
+	display: inline-block;
+}
+.search ul li label{
+	height: 35px;
+	width: 35px;
+
+}
+.search ul li .cl1{
+	background: red;
+
+}
+.search ul li .cl2{
+	background: blue;
+
+}
+.search ul li .cl3{
+	background: yellow;
+
+}
+.search ul li .cl4{
+	background: green;
+
+}
+.search ul li .cl5{
+	background: orange;
+
+}
